@@ -33,7 +33,7 @@ class GraphView: UIView {
         }
     }
     
-    //TODO
+    //TODOSOON
     func moveAxis(recoginzer: UIPanGestureRecognizer) {
         print("panned")
     }
